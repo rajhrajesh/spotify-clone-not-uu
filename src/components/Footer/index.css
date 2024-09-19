@@ -1,0 +1,33 @@
+/* Footer.css */
+.footer {
+  display: flex;
+  align-items: center;
+  background-color: #000;
+  padding: 20px;
+}
+.footer__left {
+  flex: 0.3;
+  display: flex;
+  align-items: center;
+}
+.footer__albumLogo {
+  width: 60px;
+}
+.footer__songInfo {
+  margin-left: 20px;
+}
+.footer__center {
+  flex: 0.4;
+  display: flex;
+  justify-content: center;
+}
+.footer__icon {
+  font-size: 30px;
+  margin: 0 10px;
+}
+.footer__right {
+  flex: 0.3;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

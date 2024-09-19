@@ -1,0 +1,14 @@
+/* Sidebar.css */
+.sidebar {
+  flex: 0.2;
+  background-color: #040404;
+  color: #b3b3b3;
+  height: 100%;
+  padding: 10px;
+}
+.sidebar__logo {
+  width: 100px;
+}
+.sidebar__title {
+  margin-top: 20px;
+}

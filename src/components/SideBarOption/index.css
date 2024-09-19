@@ -1,0 +1,14 @@
+/* SidebarOption.css */
+.sidebarOption {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+.sidebarOption__icon {
+    font-size: 20px;
+}
+.sidebarOption h4 {
+    margin-left: 20px;
+    font-size: 14px;
+}

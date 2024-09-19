@@ -1,0 +1,17 @@
+/* Body.css */
+.body {
+  flex: 0.8;
+  padding: 20px;
+  color: #fff;
+}
+.body__info {
+  display: flex;
+  align-items: center;
+}
+.body__info img {
+  height: 200px;
+  width: 200px;
+}
+.body__songs {
+  margin-top: 20px;
+}

@@ -1,0 +1,23 @@
+/* Header.css */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #000;
+}
+.header__left input {
+  border: none;
+  background-color: #121212;
+  color: #fff;
+  padding: 10px;
+  border-radius: 20px;
+  width: 300px;
+}
+.header__right {
+  display: flex;
+  align-items: center;
+}
+.header__right h4 {
+  margin-left: 10px;
+}
